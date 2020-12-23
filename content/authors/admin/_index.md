@@ -75,4 +75,4 @@ Prior to starting his PhD, Nils worked as consultant in Deloitte London's econom
 Nils holds a Master's Degree in Economics from the Barcelona Graduate School of Economics as well as a B.Sc. in Economics from Humboldt University Berlin.
 Aside from his studies, he enjoys playing basketball and squash with colleagues and classmates and practices yoga regularly. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV_Jun_2020_lean.pdf" "newtab" >}}resumé{{< /staticref >}}.
