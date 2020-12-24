@@ -11,10 +11,10 @@ role: PhD Candidate in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Boston University
-  url: https://www.stanford.edu/
+  url: https://www.bu.edu/econ/profile/nils-lehr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on the determinants of economic growth and innovation, and the impact of current and future technological developments on labor markets and market structure. I am particularly interested in technology adoption by workers and firms, and the implications of Big Data and AI for market structure and innovation.
 
 # Interests to show in About widget
 interests:
