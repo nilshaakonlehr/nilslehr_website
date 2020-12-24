@@ -70,9 +70,8 @@ email: "nilslehr@bu.edu"
 highlight_name: true
 ---
 
-Nils is a PhD student at Boston University with primary interests in macroeconomics and international economics. His current research interests include the impact of information frictions on business cycle dynamics as well as labor market frictions and adjustment margins. His other interests include the impact of international crisis on developing countries as well as the propagation of international crisis.
-Prior to starting his PhD, Nils worked as consultant in Deloitte London's economic consulting team, where he focused on policy evaluation using a variety of data analysis tool.
-Nils holds a Master's Degree in Economics from the Barcelona Graduate School of Economics as well as a B.Sc. in Economics from Humboldt University Berlin.
-Aside from his studies, he enjoys playing basketball and squash with colleagues and classmates and practices yoga regularly. 
+Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston University and expect to graduate in 2022. I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine simple, insightful economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
+Prior to starting my PhD, I worked as consultant in Deloitte London's economic consulting team, where I focused on policy evaluation using a variety of data analysis tool.
+When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to way too many tech and policy podcasts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV_Jun_2020_lean.pdf" "newtab" >}}resumé{{< /staticref >}}.
