@@ -40,8 +40,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: cv
+  icon_pack: ai
   link: 'mailto: nilslehr@bu.edu'
 - icon: twitter
   icon_pack: fab
@@ -58,9 +58,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: pdfs/NHLehr_CV_Oct_2021.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: pdfs/NHLehr_CV_Oct_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nilslehr@bu.edu"
