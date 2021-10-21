@@ -27,9 +27,9 @@ education:
   courses:
   - course: PhD in Economics
     institution: Boston University, USA
-    year: 2022 (Expected)
+    year: 2023 (Expected)
   - course: Master in Economics
-    institution: Barcelona Graduate School of Economics, Spain
+    institution: Barcelona School of Economics, Spain
     year: 2016
   - course: BSc in Economics
     institution: Humbold University, Germany
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto: nilslehr@bu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lehr_h
