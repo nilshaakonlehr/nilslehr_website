@@ -60,7 +60,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/NHLehr_CV_Oct_2021.pdf
+   link: "pdfs/NHLehr_CV_Oct_2021.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nilslehr@bu.edu"
