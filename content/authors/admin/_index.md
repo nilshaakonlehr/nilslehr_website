@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/NHLehr_CV_Jun_2020_lean.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/NHLehr_CV_Oct_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nilslehr@bu.edu"
@@ -74,4 +74,4 @@ Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston Univ
 Prior to starting my PhD, I worked as consultant in Deloitte London's economic consulting team, where I focused on policy evaluation using a variety of data analysis tool.
 When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to way too many tech and policy podcasts.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV_Jun_2020_lean.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV_Oct_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
