@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: nilslehr@bu.edu
+  link: 'mailto: nilslehr@bu.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lehr_h
