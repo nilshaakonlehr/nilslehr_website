@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2020-12-01T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,13 +22,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: []
+publication_types: [3]
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: Need fluctuates over the business cycle, yet little is known about nonprofit behavior over the cycle. This paper exploits data from millions of US nonprofit tax returns and provides key descriptive facts about nonprofits in the face of economic fluctuations. Nonprofit revenue, balance sheets, and spending contract during bad times and grow in good times. Nevertheless, nonprofits partially smooth expenditure relative to income. Nonprofits sharply differ from for-profit firms, which exhibit stronger procyclicality and little smoothing. These facts add to the charitable giving literature, documenting outcomes for charities rather than contributors, and the business cycle literature, highlighting distinct nonprofit versus for-profit cyclicality.
+abstract: Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -40,8 +40,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: Nonprofit classification
+   url: https://sites.google.com/site/clexley/dcr
 
 url_pdf: ''
 url_code: ''
