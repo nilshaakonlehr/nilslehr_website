@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2020-01-01T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -40,8 +40,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
- #- name: "Nonprofit classification"
- #  url: "https://sites.google.com/site/clexley/dcr"
+ - name: 'Nonprofit classification'
+   url: 'https://sites.google.com/site/clexley/dcr'
 
 url_pdf: ''
 url_code: ''
