@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2022-01-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures.
+abstract: "Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures."
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -40,8 +40,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
- - name: "Nonprofit classification"
-   url: https://sites.google.com/site/clexley/dcr
+# - name: "Nonprofit classification"
+#   url: https://sites.google.com/site/clexley/dcr
 
 url_pdf: ''
 url_code: ''
