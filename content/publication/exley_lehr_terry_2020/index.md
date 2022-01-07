@@ -40,7 +40,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
- - name: "Nonprofit classification"
+ - name: Nonprofit classification
    url: https://sites.google.com/site/clexley/dcr
 
 url_pdf: ''
