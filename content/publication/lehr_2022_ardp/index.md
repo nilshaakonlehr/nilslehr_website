@@ -1,5 +1,5 @@
 ---
-title: "Aging, Technology Adoption, and Growth"
+title: "R&D Product Dispersion and Growth"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2020-12-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: []
 publication: 
 publication_short: 
 
-abstract: In this paper, I argue that workforce aging has contributed to the recent productivity slowdown in the US through a technology adoption channel. I document that older workers are slow to adopt new technologies and, motivated by this evidence, build an endogenous growth model with overlapping generations and costly learning. The model replicates observed cohort patterns in technology adoption and predicts a scale-back of R&D investments in response to an aging workforce together with lower productivity growth in the long run. Interestingly, this might be optimal from a social planner’s perspective. I confirm the model’s predictions for innovation using a local labor markets approach. In particular, I show that commuting zones with an aging workforce invest less in R&D and produce fewer innovations. Evidence and theory thus jointly support the view that workforce aging has contributed to lower productivity growth in the US.
+abstract: "This paper documents that average R\&D products (ARDPs), defined as the value created from innovation divided by the associated cost, are highly dispersed among US listed, innovation-intensive firms and that this dispersion has increased over time. This finding is surprising ex-ante as workhorse endogenous growth models predict ARDP equalization across firms. After ruling out benign drivers, I argue that ARDP dispersion can be interpreted as misallocation. I develop a growth rate decomposition for a general class of endogenous growth models that allows me to directly link ARDP dispersion to economic growth. Combing data and model I estimate US growth could be up to 30\% larger without ARDP dispersion and that its rise can account for up to 50\% of the declining long-run growth rate. I investigate potential mechanisms and present reduced form and quantitative evidence in favor of adjustment cost and labor market power."
 
 # Summary. An optional shortened abstract.
 summary: []

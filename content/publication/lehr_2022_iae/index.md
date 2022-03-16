@@ -1,18 +1,16 @@
 ---
-title: "Non Profits in Good Times and Bad Times"
+title: "Innovation in an Aging Economy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Christine L. Exley
 - admin
-- Stephen J. Terry
 
 # Author notes (optional)
 author_notes: []
 
-date: "2021-12-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,13 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [3]
+publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: "Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures."
+abstract: "The US and other developed nations have experienced two concurrent phenomena over the previous two decades: Slow productivity growth and rapid workforce aging. In this paper I argue that both phenomena are linked through a demand channel. Following an instrumental variable strategy I provide evidence for a causal link between workforce aging and lower innovation. I then investigate the mechanisms leveraging export data and find that commuting zones exposed to aging international demand reduce their innovation activities. Jointly this evidence suggests that demand for innovation is a key channel linking workforce aging to lower innovation."
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -40,12 +38,12 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
- #- name: 'Nonprofit classification'
- #  url: 'https://sites.google.com/site/clexley/dcr'
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://sites.google.com/site/clexley/dcr'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
