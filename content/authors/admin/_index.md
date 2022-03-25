@@ -73,4 +73,4 @@ Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston Univ
 Prior to starting my PhD, I worked as consultant in Deloitte London's economic consulting team, where I focused on policy evaluation using a variety of data analysis tool.
 When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to way too many tech and policy podcasts.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref ",media/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
