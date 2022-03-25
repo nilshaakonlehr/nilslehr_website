@@ -24,9 +24,14 @@
 #  weight = 40
 
 [[main]]
-  name = "Research"
-  url = "#publications"
+  name = "On going research"
+  url = "#workingpapers"
   weight = 50
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 60
 
 #[[main]]
 #  name = "Contact"
