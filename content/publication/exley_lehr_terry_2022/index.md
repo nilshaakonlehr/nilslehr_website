@@ -10,9 +10,9 @@ authors:
 - Stephen J. Terry
 
 # Author notes (optional)
-author_notes: [(forthcoming)]
+author_notes: []
 
-date: "2022-01-01T00:00:00Z"
+date: "forthcoming" #"2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -39,9 +39,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: "Nonprofit classification"
-#   url: https://sites.google.com/site/clexley/dcr
+ links:
+ - name: "Nonprofit classification"
+ - url: https://sites.google.com/site/clexley/dcr
 
 url_pdf: ''
 url_code: ''
