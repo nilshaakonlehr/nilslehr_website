@@ -69,7 +69,7 @@ email: "nilslehr@bu.edu"
 highlight_name: true
 ---
 
-Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston University and expect to graduate in 2023. I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine simple, insightful economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
+Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston University and expect to graduate in 2023. I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
 Prior to starting my PhD, I worked as consultant in Deloitte London's economic consulting team, where I focused on policy evaluation using a variety of data analysis tool.
 When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to way too many tech and policy podcasts.
 

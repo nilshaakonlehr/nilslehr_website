@@ -1,5 +1,5 @@
 ---
-title: "Non Profits in Good Times and Bad Times"
+title: "Nonprofits in Good Times and Bad Times"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,7 +10,7 @@ authors:
 - Stephen J. Terry
 
 # Author notes (optional)
-author_notes: []
+author_notes: [(forthcoming)]
 
 date: "2022-01-01T00:00:00Z"
 doi: ""
@@ -22,11 +22,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: [3]
+publication_types: [1]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: Journal of Political Economy Microeconomics
+publication_short: JPE Micro
 
 abstract: "Need fluctuates over the business cycle. We conduct a survey revealing a desire for nonprofit activities to countercyclically expand during downturns. We then demonstrate, using comprehensive US nonprofit data drawn from millions of tax returns, that the public’s hopes are disappointed. Nonprofit expenditure, revenue, and balance sheets fluctuate procyclically: contracting during national and local downturns. This finding is evident even for a narrow group of nonprofits the public most wishes would expand during downturns, e.g., those providing critical needs like food or housing. Our new facts contribute to the charitable giving, nonprofit, and business cycle literatures."
 
