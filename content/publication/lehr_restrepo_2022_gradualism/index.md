@@ -1,20 +1,21 @@
 ---
-title: "R&D Return Dispersion and Growth"
+title: "Optimal Gradualism"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Pascual Restrepo
 
 # Author notes (optional)
 author_notes: []
 
-date: "2022-12-01T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +27,7 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: "This paper documents that average R&D products (ARDPs), defined as the value created from innovation divided by the associated cost, are highly dispersed among US listed, innovation-intensive firms and that this dispersion has increased over time. This finding is surprising ex-ante as workhorse endogenous growth models predict ARDP equalization across firms. After ruling out benign drivers, I argue that ARDP dispersion can be interpreted as misallocation. I develop a growth rate decomposition for a general class of endogenous growth models that allows me to directly link ARDP dispersion to economic growth. Combing data and model I estimate US growth could be up to 30% larger without ARDP dispersion and that its rise can account for up to 50% of the declining long-run growth rate. I investigate potential mechanisms and present reduced form and quantitative evidence in favor of adjustment cost and labor market power."
+abstract: "TBD."
 
 # Summary. An optional shortened abstract.
 summary: []
