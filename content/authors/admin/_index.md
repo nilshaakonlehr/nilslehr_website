@@ -14,7 +14,7 @@ organizations:
   url: https://www.bu.edu/econ/profile/nils-lehr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on the determinants of economic growth and innovation, and the impact of current and future technological developments on labor markets and market structure. I am particularly interested in technology adoption by workers and firms, and the implications of Big Data and AI for market structure and innovation.
+bio: []
 
 # Interests to show in About widget
 interests:
@@ -70,7 +70,8 @@ highlight_name: true
 ---
 
 Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston University and expect to graduate in 2023. I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
-Prior to starting my PhD, I worked as consultant in Deloitte London's economic consulting team, where I focused on policy evaluation using a variety of data analysis tool.
 When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to way too many tech and policy podcasts.
+
+I will be available for interviews at the European Econometric Assosiation meetings in December 2022 as well as the American Economic Association meetings in January 2023.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
