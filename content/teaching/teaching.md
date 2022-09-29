@@ -19,4 +19,4 @@ header:
 - Teaching Assistant, EC102: Macroeconomics, Boston University, Fall 2018
 - Teaching Assistant, EC704: Advanced Macroeconomics (PhD level), Boston University, Spring 2019
 
-I created personalized material including slides for both classes. References and sample material available upon request.
+References and sample teaching material available upon request.
