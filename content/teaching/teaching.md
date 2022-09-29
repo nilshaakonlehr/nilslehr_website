@@ -1,6 +1,6 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
+title: Teaching
+summary: This page describes my teaching experience.
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -13,3 +13,8 @@ header:
   caption: ""
   image: ""
 ---
+
+Boston University
+
+- Teaching Assistant, EC102: Macroeconomics, Boston University, Fall 2018
+- Teaching Assistant, EC704: Advanced Macroeconomics (PhD level), Boston University, Spring 2019
