@@ -15,7 +15,7 @@ header:
   image: ""
 ---
 
-_Boston University_
+*Boston University*
 
 - Teaching Assistant, EC102: Macroeconomics, Boston University, Fall 2018
 - Teaching Assistant, EC704: Advanced Macroeconomics (PhD level), Boston University, Spring 2019
