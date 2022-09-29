@@ -33,6 +33,12 @@
   url = "#publications"
   weight = 60
 
+[[main]]
+  name = "Teaching"
+  url = "teaching/teaching.md"
+  weight = 70
+
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
