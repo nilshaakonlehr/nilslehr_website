@@ -7,6 +7,7 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+date: false
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -14,7 +15,7 @@ header:
   image: ""
 ---
 
-*Boston University*
+_Boston University_
 
 - Teaching Assistant, EC102: Macroeconomics, Boston University, Fall 2018
 - Teaching Assistant, EC704: Advanced Macroeconomics (PhD level), Boston University, Spring 2019
