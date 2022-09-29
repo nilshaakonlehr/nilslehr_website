@@ -12,7 +12,7 @@ date: false
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
-  image: "wide.jpg"
+  image: "media/wide.jpg"
 ---
 
 *Boston University*
