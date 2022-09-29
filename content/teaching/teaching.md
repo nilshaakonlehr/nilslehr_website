@@ -1,7 +1,7 @@
 ---
 title: Teaching
 summary: This page describes my teaching experience.
-date: "2018-06-28T00:00:00Z"
+date: ""
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,7 +14,9 @@ header:
   image: ""
 ---
 
-Boston University
+*Boston University*
 
 - Teaching Assistant, EC102: Macroeconomics, Boston University, Fall 2018
 - Teaching Assistant, EC704: Advanced Macroeconomics (PhD level), Boston University, Spring 2019
+
+I created personalized material including slides for both classes. References and sample material available upon request.
