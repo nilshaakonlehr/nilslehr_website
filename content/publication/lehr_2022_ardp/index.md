@@ -1,5 +1,5 @@
 ---
-title: "R&D Return Dispersion and Economic Growth --- The Case of Inventor Market Power"
+title: "R&D Return Dispersion and Economic Growth - The Case of Inventor Market Power (Job Market Paper)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -34,7 +34,7 @@ summary: []
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: yes
 
 # Custom links (uncomment lines below)
 # links:
