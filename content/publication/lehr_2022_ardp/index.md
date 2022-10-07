@@ -1,5 +1,5 @@
 ---
-title: "R&D Return Dispersion and Growth"
+title: "R&D Return Dispersion and Economic Growth --- The Case of Inventor Market Power"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,7 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: "This paper documents large and persistent differences in R&D returns across listed US firms, with firms at the 75th percentile having two times the median return. This dispersion is surprising as workhorse endogenous growth models predict that R&D resources flow from low to high return firms until return equalization. I investigate frictions as a potential mechanism and find mixed results. On the one hand, I document that high R&D return firms are not credit constrained nor have a higher return on capital, suggesting that financial frictions are not a key driver. On the other hand, I document that high R&D return firms face a more inelastic supply of inventors, suggesting that return differences might reflect labor-market power. Calibrating a Schumpeterian growth model to match key data moments, I find that inventor market power differences can explain 1/3 of the measured R&D return dispersion and reduce the annual growth rate by 0.06 p.p., thereby reducing welfare by 2.1%."
+abstract: "This paper documents large and persistent differences in R&D returns across listed US firms, with firms at the 75th percentile earning twice the median return. Further- more, returns are consistently larger for highly innovative firms with a large inventor workforce. Systematic R&D return differences are surprising as workhorse endogenous growth models predict that R&D resources flow from low to high returns firms until return equalization. I show that R&D return dispersion can reflect heterogeneity in firms’ market power over inventors in theory and provide evidence in favor of this hypothesis. I estimate that firms with high returns and those with a large inventor workforce face less elastic inventor supply, suggesting that they have more inventor market power. Calibrating a Schumpeterian growth model to match this evidence, I find that inventor monopsony can account for 1/3 of the documented R&D return dispersion and slows down growth by 4%, a welfare reduction of 2.1%."
 
 # Summary. An optional shortened abstract.
 summary: []
