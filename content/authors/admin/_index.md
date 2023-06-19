@@ -6,7 +6,7 @@ title: Nils H. Lehr
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: PhD in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,16 +18,18 @@ bio: []
 
 # Interests to show in About widget
 interests:
+- Macroeconimics
 - Economic growth
 - Innovation
-- Impact of technology on labor markets and firm dynamics
+- Firm dynamics
+- Labor markets
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Economics
     institution: Boston University, USA
-    year: 2023 (Expected)
+    year: 2023
   - course: Master in Economics
     institution: Barcelona School of Economics, Spain
     year: 2016
@@ -69,9 +71,7 @@ email: "nilslehr@bu.edu"
 highlight_name: true
 ---
 
-Welcome to my personal webpage! I am a PhD Candidate in Economics at Boston University and expect to graduate in 2023. I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
-When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to way too many tech and policy podcasts.
-
-I will be available for interviews at the European Econometric Assosiation meetings in December 2022 as well as the American Economic Association meetings in January 2023.
+Welcome to my personal webpage! I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
+When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to tech and policy podcasts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
