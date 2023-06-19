@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2022-10-01T00:00:00Z"
+date: "2023-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: "This paper studies how gradualism affects the welfare gains from trade, technol- ogy, and reforms. When people face adjustment frictions, gradual shocks create less adverse distributional effects in the short run. We show that there are welfare gains from inducing a more gradual transition via temporary taxes, and provide formulas for the gains from gradualism and optimal short-run taxes on trade and technology. Our formulas account for the possibility that reallocation effort is endogenous and responds to policy, and for the existence of public assistance programs. Using these formulas, we compute the optimal temporary taxes needed to mitigate the distributional consequences of rising import competition from China and the deployment of automation technologies substituting for routine jobs. Our formulas can also be used to compute the optimal timing of economic reforms or trade liberalizations, and we apply them to study Colombia’s trade liberalization in 1990 — a prominent example where optimal policy called for a more gradual reform."
+abstract: "This paper studies how gradualism affects the welfare gains from trade, technology, and reforms.When workers face adjustment frictions, gradual shocks create less adverse distributional effects in the short run. We show that there are welfare gains from inducing a more gradual transition via temporary taxes on trade and technology and provide formulas for the optimal path for taxes. Our formulas account for the possibility that reallocation effort responds to policy and for the existence of income taxes and assistance programs. Using these formulas, we compute the optimal temporary taxes needed to mitigate the distributional consequences of rising import competition from China and the deployment of automation technologies substituting for routine jobs. Our formulas can also be used to compute the optimal timing of economic reforms or trade liberalizations. We study Colombia's trade liberalization in 1990 and conclude that optimal policy called for a more gradual reform."
 
 # Summary. An optional shortened abstract.
 summary: []
