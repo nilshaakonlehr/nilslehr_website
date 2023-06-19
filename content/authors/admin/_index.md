@@ -6,7 +6,7 @@ title: Nils H. Lehr
 superuser: true
 
 # Role/position/tagline
-role: PhD in Economics
+role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
