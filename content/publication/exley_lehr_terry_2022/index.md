@@ -1,5 +1,5 @@
 ---
-title: "Nonprofits in Good Times and Bad Times"
+title: "Nonprofits in Good Times and Bad Times (JPE Micro)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
