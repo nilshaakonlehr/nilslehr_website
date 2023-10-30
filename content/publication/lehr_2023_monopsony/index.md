@@ -1,5 +1,5 @@
 ---
-title: "Does Monopsony Matter for Innovation?"
+title: "R&D Return Dispersion And Economic Growth — The Case of Inventor Market Power"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,7 +26,8 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: ""
+abstract: "This paper documents large and persistent differences in R&D returns across listed US firms, with firms at the 75th percentile earning twice the median return. Systematic R&D return differences are surprising as conventional endogenous growth models as- sume that R&D resources flow from low to high returns firms until return equalization, maximizing aggregate R&D productivity. Motivated by a strong, positive correlation of R&D returns with inventor employment, I investigate inventor monopsony as a po- tential driver of R&D return dispersion. I show that heterogeneity in firms’ market power over inventors leads to R&D return dispersion in theory and provide evidence in favor of this hypothesis. My estimates suggest that firms with high returns and those with a large inventor workforce face less elastic inventor supply, giving them more inventor market power. Calibrating a Schumpeterian growth model to match this evidence, I find that inventor monopsony can account for 1/3 of the documented R&D return dispersion. Removing this distortion would increase the growth rate by 0.06 p.p. and raise welfare by 2.1% in consumption equivalent terms.
+"
 
 # Summary. An optional shortened abstract.
 summary: []
