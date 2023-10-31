@@ -1,5 +1,5 @@
 ---
-title: "R&D Return Dispersion And Economic Growth — The Case of Inventor Market Power"
+title: "Does Monopsony Matter for Innovation?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
