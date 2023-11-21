@@ -21,6 +21,7 @@ interests:
 - Macroeconimics
 - Economic growth
 - Innovation
+- Entrepreneurship
 - Firm dynamics
 - Labor markets
 
@@ -71,7 +72,7 @@ email: "nilslehr@bu.edu"
 highlight_name: true
 ---
 
-Welcome to my personal webpage! I am a macroeconomist focusing on **economic growth**, **innovation**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation and technology choice on the aggregate.
+Welcome to my personal webpage! I am an economist studying **economic growth**, **innovation**, **entrepreneurship**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation, entrepreneurship, and technology choice on the aggregate.
 When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to tech and policy podcasts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
