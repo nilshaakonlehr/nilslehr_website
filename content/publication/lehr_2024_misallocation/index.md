@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2023-12-30T00:00:00Z"
+date: "2024-03-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +26,7 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: "This paper provides evidence that rising frictions and their impact on the allocation of R&D resources have contributed to the slowdown in US productivity growth in recent decades. I develop a growth accounting framework allowing for rich firm heterogeneity in R&D productivity, exposure to frictions, as captured by an R&D wedge, and the rate at which private value created from innovation translates into growth. The model growth rate permits a closed-form decomposition into the frictionless level and an adjustment factor capturing the impact of frictions. I propose a methodology to measure the model primitives for a sample of US-listed firms from 1975 to 2014. Frictions can be measured using the R&D return, i.e., the ratio of value created from R&D to its cost, which I measure as the ratio of patent valuations to R&D expenditure over a 5-year window. I document large and persistent differences therein, which suggests significant frictions through the lens of the model. The evidence suggests financial frictions, adjustment costs, and monopsony power over inventors as potential drivers of R&D return dispersion. Combining model and data, I estimate that frictions reduce economic growth by 18% on average and that their rise can account for 11% slower growth in 2000–14 or 30% of the overall observed slowdown. These findings are robust to a large set of alternative specifications and measurement error adjustments.
-"
+abstract: "This paper provides evidence that declining allocative eﬀiciency in the R&D sector contributed to the recent slowdown in US productivity growth. I develop a growth accounting framework with rich firm heterogeneity including frictions, which are captured by a wedge between the marginal cost and benefits of R&D. The model growth rate depends on a summary statistic for allocative eﬀiciency in the R&D sector, which is decreasing R&D wedge dispersion. I show that R&D wedges can be measured from R&D returns—the ratio of the value created from R&D to its cost—and measure them for US-listed firms for 1975–2014. I document large and persistent differences in R&D returns and present evidence suggesting financial frictions, adjustment costs, and monopsony power as drivers. Combining data and model, I estimate that frictions reduced economic growth by 18% and that declining allocative eﬀiciency can account for 30% of the observed growth slowdown."
 
 # Summary. An optional shortened abstract.
 summary: []
