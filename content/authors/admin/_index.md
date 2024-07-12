@@ -10,8 +10,8 @@ role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Boston University
-  url: https://www.bu.edu/econ/profile/nils-lehr/
+- name: International Monetary Fund
+  url: www.nilslehr.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
@@ -72,7 +72,8 @@ email: "nilslehr@bu.edu"
 highlight_name: true
 ---
 
-Welcome to my personal webpage! I am an economist studying **economic growth**, **innovation**, **entrepreneurship**, and **technology adoption**. In my research I combine quantitative economic modeling with rigorous empirical methods to shine light on important mechanisms driving innovation, entrepreneurship, and technology choice on the aggregate.
-When I am not solving models or crunching numbers, I enjoy playing basketball, reading non-fiction books, and listening to tech and policy podcasts.
+Welcome to my prefessional webpage. I am an economist at the International Monetary Fund specializing in **economic growth**, **innovation**, **entrepreneurship**, and **technology adoption**. My research combines quantitative economic modeling with rigorous empirical methods to illuminate the mechanisms driving innovation, entrepreneurship, and technology choices on a macro scale.
+When I am not solving models or analyzing data, I enjoy playing basketball, reading books, and listening to tech and policy podcasts.
+Thank you for visiting.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
