@@ -73,7 +73,9 @@ highlight_name: true
 ---
 
 Welcome to my prefessional webpage. I am an economist at the International Monetary Fund specializing in **economic growth**, **innovation**, **entrepreneurship**, and **technology adoption**. My research combines quantitative economic modeling with rigorous empirical methods to illuminate the mechanisms driving innovation, entrepreneurship, and technology choices on a macro scale.
+
 When I am not solving models or analyzing data, I enjoy playing basketball, reading books, and listening to tech and policy podcasts.
+
 Thank you for visiting.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/NHLehr_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
