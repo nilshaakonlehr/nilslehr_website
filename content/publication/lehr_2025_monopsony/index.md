@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2023-08-30T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: [3]
 publication: 
 publication_short: 
 
-abstract: "This paper studies the impact of firms' market power over inventors on U.S. innovation and economic growth. When firms have market power in labor markets, a situation typically referred to as monopsony, they can depress wages by hiring fewer workers. I show that monopsony in the market for inventors can slow down economic growth by depressing the aggregate demand for inventors and by allocating the employed inventors inefficiently. Misallocation occurs as larger firms depress their hiring of inventors disproportionally because their size makes them more effective at depressing wages. Motivated by this theoretical result, I estimate the firm-level elasticity of inventor employment with respect to their wages, or the inventor labor supply elasticity, using an instrumental variable strategy. My estimates suggest that firms face less than perfectly elastic supply and that this elasticity is lower for firms with an already large inventor workforce. Thus, firms appear to have monopsony power and it is stronger for larger employers. I use this evidence to calibrate a heterogeneous firms endogenous growth model with size-dependent monopsony power. The calibrated model suggests that monopsony power depresses the annual economic growth rate in the U.S. by 0.26 percentage points or 15% and, resultingly, welfare by 6%.
+abstract: "This paper examines how firms’ monopsony power—their ability to depress wages by restricting employment—in the market for inventors aﬀects U.S. innovation and economic growth. Using an instrumental variable strategy, I estimate firm-level inventor labor supply elasticities and find that firms face less than perfectly elastic supply, with larger employers wielding greater monopsony power. I develop and quantify a heterogeneous firms growth model with size-dependent monopsony power that matches this evidence. The model suggests that monopsony power reduces annual U.S. economic growth by 0.20 percentage points and welfare by 11% through depressed R&D employment and misallocation.
 "
 
 # Summary. An optional shortened abstract.
