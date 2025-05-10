@@ -23,7 +23,7 @@ publishDate: "2023-10-01T00:00:00Z"
 publication_types: [3]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Reject & Resubmit, Review of Economic Studies
 publication_short: 
 
 abstract: "This paper provides evidence that rising misallocation in the R&D sector contributed to the recent slowdown in U.S. productivity growth. I develop a growth accounting framework allowing for misallocation of R&D resources across firms captured by wedges between their marginal cost and benefits of R&D. I show that R&D wedges can be measured from R&D returns and document large and persistent differences in R&D returns across US-listed firms. Combining data and model, I estimate that frictions reduced productivity growth by 18% over 1975-2014 and that rising misallocation in the R&D sector accounts for 25% of the growth slowdown."

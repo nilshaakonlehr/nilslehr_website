@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: [3]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Revise & Resubmit, Econometrica
 publication_short: 
 
 abstract: "This paper examines how firms’ monopsony power—their ability to depress wages by restricting employment—in the market for inventors aﬀects U.S. innovation and economic growth. Using an instrumental variable strategy, I estimate firm-level inventor labor supply elasticities and find that firms face less than perfectly elastic supply, with larger employers wielding greater monopsony power. I develop and quantify a heterogeneous firms growth model with size-dependent monopsony power that matches this evidence. The model suggests that monopsony power reduces annual U.S. economic growth by 0.20 percentage points and welfare by 11% through depressed R&D employment and misallocation.
