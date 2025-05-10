@@ -1,5 +1,5 @@
 ---
-title: "Does Monopsony Matter for Innovation?"
+title: "Does Monopsony Matter for Innovation? (R&R Econometrica)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
